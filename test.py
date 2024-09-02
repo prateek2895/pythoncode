@@ -1,1 +1,1 @@
-print("Wassup Buddy this is automated job from jenkins!! v9")
+print("Wassup Buddy this is automated job from jenkins!! v7")
